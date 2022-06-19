@@ -1,0 +1,2 @@
+# FormalGrammarlab5
+Распознаватель
